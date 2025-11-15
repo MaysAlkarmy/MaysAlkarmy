@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fc%2Fcode.htm&psig=AOvVaw24ottGEdjsqyVQHSj4BbCC&ust=1763302296471000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDYh5Gs9JADFQAAAAAdAAAAABAE"  width="200" style="border-radius: 50%;">
+</p>
+<br>
 <h1 align="center">Hi 👋, I'm Mays Alkarmy</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
